@@ -49,3 +49,8 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
+## 🌐 Projeto online
+
+Acesse o projeto:
+
+https://cat-logo-de-filmes-three.vercel.app
